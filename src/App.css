@@ -1,0 +1,20 @@
+button{
+  padding: 5px;
+  border: 1px solid ;
+  border-radius: 4px;
+  background-color: skyblue;
+}
+#h1{
+  background-color: lightblue;
+}
+#main{
+  background-color: lightpink;
+  border: 2px solid;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.sub{
+  border: 1px solid;
+  padding: 15px;
+}
